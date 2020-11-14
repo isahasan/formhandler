@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/formhandler/static/css/main.050523cc.chunk.css",
+    "main.js": "/formhandler/static/js/main.ab7004c0.chunk.js",
+    "main.js.map": "/formhandler/static/js/main.ab7004c0.chunk.js.map",
+    "runtime-main.js": "/formhandler/static/js/runtime-main.251f6de6.js",
+    "runtime-main.js.map": "/formhandler/static/js/runtime-main.251f6de6.js.map",
+    "static/js/2.6fdc75f8.chunk.js": "/formhandler/static/js/2.6fdc75f8.chunk.js",
+    "static/js/2.6fdc75f8.chunk.js.map": "/formhandler/static/js/2.6fdc75f8.chunk.js.map",
+    "index.html": "/formhandler/index.html",
+    "precache-manifest.4acda84a6c5f39643ec45746014098aa.js": "/formhandler/precache-manifest.4acda84a6c5f39643ec45746014098aa.js",
+    "service-worker.js": "/formhandler/service-worker.js",
+    "static/css/main.050523cc.chunk.css.map": "/formhandler/static/css/main.050523cc.chunk.css.map",
+    "static/js/2.6fdc75f8.chunk.js.LICENSE.txt": "/formhandler/static/js/2.6fdc75f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.251f6de6.js",
+    "static/js/2.6fdc75f8.chunk.js",
+    "static/css/main.050523cc.chunk.css",
+    "static/js/main.ab7004c0.chunk.js"
+  ]
+}
